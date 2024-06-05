@@ -1,0 +1,15 @@
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\bin\Debug\net6.0\Subscriber_CORE.deps.json
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\bin\Debug\net6.0\Subscriber_CORE.dll
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\bin\Debug\net6.0\Subscriber_CORE.pdb
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.dll
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\refint\Subscriber_CORE.dll
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.pdb
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\ref\Subscriber_CORE.dll
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\bin\Debug\net6.0\Subscriber_Data.dll
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\bin\Debug\net6.0\Subscriber_Data.pdb
+C:\Users\User\Documents\תכנות\שנה ב\dotnet\FinalProject\FinalProject\Subscriber.CORE\obj\Debug\net6.0\Subscriber_CORE.csproj.CopyComplete

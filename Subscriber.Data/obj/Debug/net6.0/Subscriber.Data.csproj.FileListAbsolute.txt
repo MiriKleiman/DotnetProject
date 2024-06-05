@@ -1,0 +1,5 @@
+Y:\Groups\Group_2\קליימן  מרים\DOTNET\FinalProject\FinalProject\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קליימן  מרים\DOTNET\FinalProject\FinalProject\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קליימן  מרים\DOTNET\FinalProject\FinalProject\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קליימן  מרים\DOTNET\FinalProject\FinalProject\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.AssemblyInfo.cs
+Y:\Groups\Group_2\קליימן  מרים\DOTNET\FinalProject\FinalProject\Subscriber.Data\obj\Debug\net6.0\Subscriber.Data.csproj.CoreCompileInputs.cache

@@ -1,0 +1,736 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\controllers\\subscribercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\subscribercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\config\\finalprojectprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\config\\finalprojectprofil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\dto\\carddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\dto\\subscriberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\dto\\subscriberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subsriber_service\\subscriberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|solutionrelative:subsriber_service\\subscriberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\config\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\config\\middleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subsriber_service\\carddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|solutionrelative:subsriber_service\\carddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367E70A9-0A89-47B3-B690-C3998FE401EE}|Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber_service_bl\\subscriberbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367E70A9-0A89-47B3-B690-C3998FE401EE}|Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj|solutionrelative:subscriber_service_bl\\subscriberbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\response\\baseresponsegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\response\\baseresponsegeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\response\\classresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\response\\classresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367E70A9-0A89-47B3-B690-C3998FE401EE}|Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber_service_bl\\cardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{367E70A9-0A89-47B3-B690-C3998FE401EE}|Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj|solutionrelative:subscriber_service_bl\\cardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\controllers\\cardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\config\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\config\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\interface\\isubscriberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\interface\\isubscriberdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\interface\\isubscriberbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\interface\\isubscriberbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\interface\\icardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\interface\\icardbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\interface\\icarddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\interface\\icarddal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subsriber_service\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|solutionrelative:subsriber_service\\myexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\subscriber_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\subscriber_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\subscriber_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\subscriber_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\migrations\\20240206165702_finalproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\migrations\\20240206165702_finalproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206165243_FinalProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Subscriber.Data\\Migrations\\20240206165243_FinalProject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\weight_watchers_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:3:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\weight_watchers_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{367E70A9-0A89-47B3-B690-C3998FE401EE}|Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber_service_bl\\subscriber_service_bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{367E70A9-0A89-47B3-B690-C3998FE401EE}|Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj|solutionrelative:subscriber_service_bl\\subscriber_service_bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\response\\baseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subsriber_service\\subscriber_service_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|solutionrelative:subsriber_service\\subscriber_service_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\weight_watchers_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\weight_watchers_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\weight_watchers_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\weight_watchers_context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\subscriber_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\subscriber_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\subscriber_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\subscriber_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Subsriber_Service\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subsriber_service\\subscriber_service_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{5E05CF40-1AF8-4A64-B92C-974FF4AA8635}|Subsriber_Service\\Subscriber_Service_Dal.csproj|solutionrelative:subsriber_service\\subscriber_service_dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:1:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:2:0:{41E7F2E6-5672-454F-925F-2F31941A7FD2}|FinalProject\\FinalProject.csproj|solutionrelative:finalproject\\finalproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\migrations\\20240206173003_fff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\migrations\\20240206173003_fff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\entities\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\entities\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\entities\\card_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\entities\\card_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\entities\\card_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\entities\\card_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.data\\entities\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{B98F9CA5-5D4E-4DA5-B657-5E6F78ADF9BD}|Subscriber.Data\\Subscriber_Data.csproj|solutionrelative:subscriber.data\\entities\\subscriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|c:\\users\\user\\documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\finalproject\\finalproject\\subscriber.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{78FACDE8-0DAE-4433-A2E7-BA6B31EF13BC}|Subscriber.CORE\\Subscriber_CORE.csproj|solutionrelative:subscriber.core\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SubscriberDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\SubscriberDal.cs",
+              "RelativeDocumentMoniker": "Subsriber_Service\\SubscriberDal.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\SubscriberDal.cs",
+              "RelativeToolTip": "Subsriber_Service\\SubscriberDal.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwDgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T18:37:14.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriberController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Controllers\\SubscriberController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\SubscriberController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Controllers\\SubscriberController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\SubscriberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T18:35:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubscriberDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\DTO\\SubscriberDTO.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\DTO\\SubscriberDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\DTO\\SubscriberDTO.cs",
+              "RelativeToolTip": "Subscriber.CORE\\DTO\\SubscriberDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:09:17.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MiddleWare.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Config\\MiddleWare.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Config\\MiddleWare.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Config\\MiddleWare.cs",
+              "RelativeToolTip": "FinalProject\\Config\\MiddleWare.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T21:39:38.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CardDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\DTO\\CardDTO.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\DTO\\CardDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\DTO\\CardDTO.cs",
+              "RelativeToolTip": "Subscriber.CORE\\DTO\\CardDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:08:54.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "Subscriber.CORE\\DTO\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:21:37.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Program.cs",
+              "RelativeToolTip": "FinalProject\\Program.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T16:35:07.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalProjectProfil.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Config\\FinalProjectProfil.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Config\\FinalProjectProfil.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Config\\FinalProjectProfil.cs",
+              "RelativeToolTip": "FinalProject\\Config\\FinalProjectProfil.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T19:34:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FinalProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\appsettings.json",
+              "RelativeToolTip": "FinalProject\\appsettings.json",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-01T16:28:32.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CardDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\CardDal.cs",
+              "RelativeDocumentMoniker": "Subsriber_Service\\CardDal.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\CardDal.cs",
+              "RelativeToolTip": "Subsriber_Service\\CardDal.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAQwCMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T15:53:06.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BaseResponseGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Response\\BaseResponseGeneral.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Response\\BaseResponseGeneral.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Response\\BaseResponseGeneral.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Response\\BaseResponseGeneral.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T23:05:19.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClassResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Response\\ClassResponse.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Response\\ClassResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Response\\ClassResponse.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Response\\ClassResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:38:43.04Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CardBl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber_Service_Bl\\CardBl.cs",
+              "RelativeDocumentMoniker": "Subscriber_Service_Bl\\CardBl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber_Service_Bl\\CardBl.cs",
+              "RelativeToolTip": "Subscriber_Service_Bl\\CardBl.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T15:53:06.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SubscriberBl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber_Service_Bl\\SubscriberBl.cs",
+              "RelativeDocumentMoniker": "Subscriber_Service_Bl\\SubscriberBl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber_Service_Bl\\SubscriberBl.cs",
+              "RelativeToolTip": "Subscriber_Service_Bl\\SubscriberBl.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAABRwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T18:36:40.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CardController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Controllers\\CardController.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Controllers\\CardController.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Controllers\\CardController.cs",
+              "RelativeToolTip": "FinalProject\\Controllers\\CardController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAqwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T17:29:50.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Config\\Configuration.cs",
+              "RelativeDocumentMoniker": "FinalProject\\Config\\Configuration.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\Config\\Configuration.cs",
+              "RelativeToolTip": "FinalProject\\Config\\Configuration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T16:59:29.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Entities\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Subscriber.cs",
+              "RelativeToolTip": "Subscriber.Data\\Entities\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T15:54:46.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ISubscriberBl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ISubscriberBl.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Interface\\ISubscriberBl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ISubscriberBl.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Interface\\ISubscriberBl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T18:40:47.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ISubscriberDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ISubscriberDal.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Interface\\ISubscriberDal.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ISubscriberDal.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Interface\\ISubscriberDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T18:41:04.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ICardBl.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ICardBl.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Interface\\ICardBl.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ICardBl.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Interface\\ICardBl.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAABhwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T17:39:40.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICardDal.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ICardDal.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Interface\\ICardDal.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Interface\\ICardDal.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Interface\\ICardDal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAMBdwA4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T17:39:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Subscriber_Data.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Subscriber_Data.csproj",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Subscriber_Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Subscriber_Data.csproj",
+              "RelativeToolTip": "Subscriber.Data\\Subscriber_Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T21:33:59.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Card_Table.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Card_Table.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Entities\\Card_Table.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Card_Table.cs",
+              "RelativeToolTip": "Subscriber.Data\\Entities\\Card_Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T15:53:06.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Subscriber_CORE.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Subscriber_CORE.csproj",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Subscriber_CORE.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Subscriber_CORE.csproj",
+              "RelativeToolTip": "Subscriber.CORE\\Subscriber_CORE.csproj",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T21:33:59.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MyException.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\MyException.cs",
+              "RelativeDocumentMoniker": "Subsriber_Service\\MyException.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\MyException.cs",
+              "RelativeToolTip": "Subsriber_Service\\MyException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwCIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-05T15:48:11.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240206173003_fff.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206173003_fff.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Migrations\\20240206173003_fff.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206173003_fff.cs",
+              "RelativeToolTip": "Subscriber.Data\\Migrations\\20240206173003_fff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-07T19:13:23.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240206165702_FinalProject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206165702_FinalProject.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Migrations\\20240206165702_FinalProject.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206165702_FinalProject.cs",
+              "RelativeToolTip": "Subscriber.Data\\Migrations\\20240206165702_FinalProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T16:58:11.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240206165243_FinalProject.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206165243_FinalProject.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Migrations\\20240206165243_FinalProject.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Migrations\\20240206165243_FinalProject.cs",
+              "RelativeToolTip": "Subscriber.Data\\Migrations\\20240206165243_FinalProject.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T16:52:43.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Weight_Watchers_Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Weight_Watchers_Context.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Weight_Watchers_Context.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Weight_Watchers_Context.cs",
+              "RelativeToolTip": "Subscriber.Data\\Weight_Watchers_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:33:59.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Subscriber_Service_Bl.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj",
+              "RelativeDocumentMoniker": "Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj",
+              "RelativeToolTip": "Subscriber_Service_Bl\\Subscriber_Service_Bl.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-03T18:43:50.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Response\\BaseResponse.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Response\\BaseResponse.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Response\\BaseResponse.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Response\\BaseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-04T22:35:00.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Class1.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Class1.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T15:53:06.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FinalProject.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject\\FinalProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T21:33:59.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Subscriber_Service_Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "RelativeDocumentMoniker": "Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "RelativeToolTip": "Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-30T21:33:59.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "FinalProject.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeDocumentMoniker": "FinalProject\\FinalProject.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\FinalProject\\FinalProject.csproj",
+              "RelativeToolTip": "FinalProject\\FinalProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-06T16:51:16.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Subscriber_Service_Dal.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "RelativeDocumentMoniker": "Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "RelativeToolTip": "Subsriber_Service\\Subscriber_Service_Dal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-03T18:43:50.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Weight_Watchers_Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Weight_Watchers_Context.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Weight_Watchers_Context.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Weight_Watchers_Context.cs",
+              "RelativeToolTip": "Subscriber.Data\\Weight_Watchers_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T16:21:13.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Subscriber_CORE.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Subscriber_CORE.csproj",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Subscriber_CORE.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Subscriber_CORE.csproj",
+              "RelativeToolTip": "Subscriber.CORE\\Subscriber_CORE.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-01T15:53:06.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Card_Table.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Card_Table.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Entities\\Card_Table.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Card_Table.cs",
+              "RelativeToolTip": "Subscriber.Data\\Entities\\Card_Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:33:59.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Weight_Watchers_Context.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Weight_Watchers_Context.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Weight_Watchers_Context.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Weight_Watchers_Context.cs",
+              "RelativeToolTip": "Subscriber.Data\\Weight_Watchers_Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-01T16:21:58.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Subscriber_Data.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Subscriber_Data.csproj",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Subscriber_Data.csproj",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Subscriber_Data.csproj",
+              "RelativeToolTip": "Subscriber.Data\\Subscriber_Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-02T11:06:24.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Subscriber.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Subscriber.cs",
+              "RelativeDocumentMoniker": "Subscriber.Data\\Entities\\Subscriber.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.Data\\Entities\\Subscriber.cs",
+              "RelativeToolTip": "Subscriber.Data\\Entities\\Subscriber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:33:59.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Class1.cs",
+              "RelativeDocumentMoniker": "Subscriber.CORE\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subscriber.CORE\\Class1.cs",
+              "RelativeToolTip": "Subscriber.CORE\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T21:33:59.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Subsriber_Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\User\\Documents\\\u05EA\u05DB\u05E0\u05D5\u05EA\\\u05E9\u05E0\u05D4 \u05D1\\dotnet\\FinalProject\\FinalProject\\Subsriber_Service\\Class1.cs",
+              "RelativeToolTip": "Subsriber_Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-02T11:06:24.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
